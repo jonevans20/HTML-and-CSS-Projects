@@ -1,0 +1,5 @@
+<DOCTYPE html>
+<html lang = "eng">
+<title> HTML practice </title>
+<p> Hello World </p>
+</html>
